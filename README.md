@@ -29,3 +29,6 @@ En cada equipo:
 8. Subimos o commit a github. En git bash: `git push`
 
 # Clonar un proxecto unity existente con git e github 
+
+1. En github copiar do botón verde que pon "code" o enderezo https ou ssh. 
+2. En git bash: `git clone <enderezo>`
