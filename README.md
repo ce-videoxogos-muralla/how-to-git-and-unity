@@ -30,6 +30,7 @@ En cada equipo:
 
 # Clonar un proxecto unity existente con git e github 
 
+![Imaxe de onde está o botón de code](images/code_link_github.jpg)
 1. En github copiar do botón verde que pon "code" o enderezo https ou ssh. 
 2. En git bash, situámonos no directorio onde queremos que se copie o cartafol do proxecto
 3. En git bash: `git clone <enderezo>`
